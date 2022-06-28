@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search_address"
+        android:title="주소 검색"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_my_posting"
+        android:title="나의 게시글"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_chat_list"
+        android:title="채팅 목록"
+        app:showAsAction="always" />
+</menu>

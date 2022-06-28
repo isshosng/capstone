@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BUMDEL</string>
+    <string name="tmap_api_key">l7xxdeab075d11454f8b982aa9426019f230</string>
+
+    <string-array name="food_classification">
+        <item>한식</item>
+        <item>중식</item>
+        <item>일식</item>
+        <item>양식</item>
+        <item>분식</item>
+        <item>아시안</item>
+        <item>야식</item>
+        <item>카페</item>
+    </string-array>
+</resources>
